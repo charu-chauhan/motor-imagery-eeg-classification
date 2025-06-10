@@ -67,8 +67,8 @@ Both statistical and spatial domain techniques:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/bci-eeg-classification.git
-cd bci-eeg-classification
+git clone https://github.com/your-username/motor-imagery-eeg-classification.git
+cd motor-imagery-eeg-classification
 ```
 
 2. Install dependencies:
@@ -78,8 +78,8 @@ pip install -r requirements.txt
 
 3. Run experiments:
 ```bash
-jupyter notebook experiment_1_bci3b_binary.ipynb
-jupyter notebook experiment_2_bci3a_multiclass.ipynb
+jupyter notebook binary_classifiaction.ipynb
+jupyter notebook multiclass_classification.ipynb
 ```
 
 ---
